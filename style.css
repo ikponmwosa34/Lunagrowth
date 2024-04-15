@@ -1,0 +1,38 @@
+.image-background{
+    background-image: url(Images/workplace-team-cooperation-businesswoman-laptop-office_1418-44.avif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
+
+  .tex-container{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(120px);
+    font-size: 120px;
+  }
+
+  .nav-link{
+    color: #fff !important;
+  }
+
+  body {
+    background-color: #343a40;
+  }
+  .code-container {
+    background-color: #272c33;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+
+  .background-image{
+    background-image: url(Images/1000_F_331381854_8jmYibhkXOTMU6nZauJmJX7eScyOX9yV.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
